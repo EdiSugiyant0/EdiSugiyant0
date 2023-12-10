@@ -1,10 +1,6 @@
-- 👋 Hi there! 👋
-- 👀 I’m Edi Sugiyanto
-- 💻 I am an informatics student from the East Java Veterans National Development University.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there! 👋
+👀 I’m Edi Sugiyanto
+💻 I am an informatics student from the East Java Veterans National Development University.
 
 <!---
 EdiSugiyant0/EdiSugiyant0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
